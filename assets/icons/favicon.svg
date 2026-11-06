@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Batangas">
+  <rect width="64" height="64" rx="13" fill="#123B50"/>
+  <circle cx="32" cy="23" r="9" fill="#E9D9BE"/>
+  <path d="M8 41.5c6.2-6 13.2-6 20 0s13.8 6 20 0" fill="none" stroke="#D98250" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M11 51c5.6-4.6 11.4-4.6 17 0s11.4 4.6 17 0" fill="none" stroke="#267C78" stroke-width="3" stroke-linecap="round"/>
+</svg>
